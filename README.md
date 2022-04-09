@@ -1,4 +1,4 @@
-# Hearst Patterns
+# Hearst patterns analyser
 Written in Java, using Hearst patterns and Object Oriented design principles as part of OOP course at Bar Ilan University. 
 
 ## Abstract
