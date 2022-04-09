@@ -21,7 +21,7 @@ Hearst patterns contains five main patterns, and according to that, there is fiv
 
 In order to run the exercise, attached a small corpus. 
 
-At **part 1**, need to put as first argument the path of this corpus, and the first argument is a path to output from the analyser.
+At **part 1**, put the path of this corpus as first argument, and the second argument is the path to output of the analyser.
 
-At **part 2**, the only argument is the hypernym as described.
+At **part 2**, the only argument neede is the hypernym as described.
 
